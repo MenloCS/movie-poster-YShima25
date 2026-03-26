@@ -90,19 +90,19 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
+Create a movie poster where the main character (blonde lady) is in an open field frolicking. The core emotion should be carefree/joy where it's dominantly green (grass) with the blue sky and some daisies or something. Make it wide-shot and uncluttered. Also the women shouldn't be the focus, it should be the field so don't make her at the center or too big. it needs to look vast and free. do not add a title or text for that matter. Make the woman smaller and make it top view so you can see the field more. add the text "The Sound of Music" in white thin font that's unobtrusive and in the bottom
+- **What worked:**  Similar picture
+- **What didn't work:**  The AI couldn't add a text
 - **What I'll change for next attempt:**  
 
 **Attempt 4:**  
 - **My prompt:**  
-
-- **What worked:**  
+I didn't change my prompt. 
+- **What worked:**  I added my own white text simple font.
 - **What didn't work:**  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+/var/folders/45/5_j6xh9s0xvd0f89cry3zqn00000gn/T/TemporaryItems/NSIRD_screencaptureui_0AmUK2/Screenshot 2026-03-26 at 9.31.48 AM.png
 ---
 
 ## Step 4: Photoshop Modifications

@@ -30,30 +30,30 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  The Sound of Music
+- **Why I chose this movie:**  I watched it when I was a small and I like its joyfulness.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Carefree
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  A field with flowers with the main character Maria frolicking
+- **Why this element:**  It's the most memorable scene in the movie for me and fields remind me of vastness and freedom.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  Other people, clutter, it needs to look vast
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Green grass
+- **Accent color(s):**  Blue sky/small flowers
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  Bright
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [X] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  

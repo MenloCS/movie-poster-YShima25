@@ -59,7 +59,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+Top view
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -69,17 +69,17 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 1:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+Create a movie poster where the main character (blonde lady) is in an open field frolicking. The core emotion should be carefree/joy where it's dominantly green (grass) with the blue sky and some daisies or something. Make it wide-shot and uncluttered. Also the women shouldn't be the focus, it should be the field so don't make her at the center or too big. it needs to look vast and free
+- **What worked:** It did create a nice looking field. 
+- **What didn't work:**  The woman was too big and centered. Also there was random text on it.
+- **What I'll change for next attempt:**  I made it top view to make as much field space as possible.
 
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+Create a movie poster where the main character (blonde lady) is in an open field frolicking. The core emotion should be carefree/joy where it's dominantly green (grass) with the blue sky and some daisies or something. Make it wide-shot and uncluttered. Also the women shouldn't be the focus, it should be the field so don't make her at the center or too big. it needs to look vast and free. do not add a title or text for that matter. Make the woman smaller and make it top view so you can see the field more
+- **What worked:** It looks better because the woman was in the center but didn't have a dominating presence. 
+- **What didn't work:**  it actually looks pretty good already
+- **What I'll change for next attempt:**  Add a title
 
 ---
 
